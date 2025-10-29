@@ -215,6 +215,3 @@ Module 2.3: Advanced Problems (Top Companies)
 
 ---
 
-## 🚀 READY TO START?
-
-**Next:** Module 2.1 - Simple Problem with FULL explanation!
