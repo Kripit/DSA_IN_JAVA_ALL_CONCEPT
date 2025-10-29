@@ -273,14 +273,3 @@ LEVEL 3: Advanced (Week 5+)
 
 ---
 
-## 🚀 READY TO START?
-
-**Next:** Problem 1 - Climbing Stairs (Foundation of ALL DP!)
-
-I'll teach you:
-- The recurrence relation (HOW to think)
-- Recursion → Memoization → Tabulation (3 approaches)
-- Space optimization (O(n) → O(1))
-- Full dry run with examples
-
-Type: **"Problem 1"** to begin! 🔥
