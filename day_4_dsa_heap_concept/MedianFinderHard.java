@@ -74,7 +74,7 @@
 import java.util.PriorityQueue;
 import java.util.Collections;
 
-public class MedianFinder {
+public class MedianFinderHard {
     
     // MAX HEAP: Stores smaller half of numbers
     // Java's PriorityQueue is min heap by default
