@@ -308,17 +308,3 @@ PriorityQueue<Task> pq = new PriorityQueue<>((a, b) -> b.priority - a.priority);
 
 ---
 
-## 🔥 READY TO START?
-
-**Next:** Problem 1 - Kth Largest Element
-
-I'll teach you:
-- Min heap vs Max heap approach
-- When to use which
-- Optimization tricks
-- Full dry run with visualization
-- Amazon interview tips
-
-Type: **"Problem 1"** to begin! 🚀
-
-**Remember:** Heap is THE KEY to cracking Amazon interviews! Master this and you're 70% ready! 💪
