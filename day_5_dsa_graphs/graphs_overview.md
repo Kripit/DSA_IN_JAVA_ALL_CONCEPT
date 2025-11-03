@@ -461,6 +461,6 @@ I'll teach you:
 - Full dry run step by step
 - Every Java syntax explained!
 
-Type: **"Problem 1"** to begin! 🔥
+Type: **"Problem 1"** to begin! 🔥( lol u can't type i mean see problem 1 hahaha )
 
 **Remember:** Graphs might seem hard, but I'll break it down so simply that you'll become an EXPERT! Trust the process! 💪
